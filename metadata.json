@@ -1,0 +1,8 @@
+{
+  "name": "Remix Việt Hoa Di Tân — Xưởng Phối Việt Phục",
+  "description": "Bản Vertical Slice MVP 5 màn hình phối trang phục Áo ngũ thân tay chẽn ghép lớp, tích hợp Gemini Contract v1 và bộ giả lập 7 tình huống kiểm thử.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

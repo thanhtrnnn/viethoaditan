@@ -1,0 +1,6 @@
+{
+  "summary":  "Kế hoạch chi tiết triển khai ứng dụng Việt Hoa Di Tân (Xưởng phối Việt phục) theo đúng phân công nhiệm vụ của Bùi Minh trong Notion, bao gồm 5 màn hình vertical slice (layer-first), tích hợp Gemini Contract v1, bộ giả lập 7 Test Case cho kiểm thử độc lập và bảng theo dõi tiến độ bàn giao MVP.",
+  "updatedAt":  "2026-10-06T01:15:30.157689242Z",
+  "requestFeedback":  true,
+  "userFacing":  true
+}
